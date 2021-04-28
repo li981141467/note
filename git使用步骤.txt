@@ -1,0 +1,10 @@
+1.先在github 里建一个库  然后复制库的地址
+2.在桌面上 git clone 加地址
+3.然后进入这个文件夹
+4.git init 
+5.git add *
+6.git push (第一次会弹出token,Vbnm981141467,然后会让你输入账号li981141467，密码Vbnm6296184，)
+
+
+如何删除库
+进了库以后 点击settings  下拉到 danger  然后 delete
